@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamSingh" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamSingh771" />
 </p>
 
 ---
